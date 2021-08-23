@@ -1,0 +1,7 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="CHECK_NEEDED" value="false" />
+    <option name="PLUGINS_CHECK_NEEDED" value="false" />
+    <option name="SHOW_WHATS_NEW_EDITOR" value="false" />
+  </component>
+</application>
